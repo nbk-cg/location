@@ -1,0 +1,18 @@
+{
+  "3": {
+    "id": "3",
+    "street": "30 Rue des Mesanges",
+    "house_number": null,
+    "postal_code": "78300",
+    "city": "Poissy",
+    "country": "France"
+  },
+  "1": {
+    "id": "1",
+    "street": "20 Rue Des Mesanges",
+    "house_number": null,
+    "postal_code": "78300",
+    "city": "Poissy",
+    "country": "France"
+  }
+}
