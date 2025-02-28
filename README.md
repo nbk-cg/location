@@ -11,12 +11,6 @@ git clone https://github.com/Zoulama/location.git
 ```
 make start
 ```
-## Example of usage command
-```
-make setup
-```
-## Run community-svc locally
-
 
 ### To add a French Address Format
 ```
