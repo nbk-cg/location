@@ -1,11 +1,11 @@
-# location-cli.rs
+# location.rs
 
 
 Building a cli that convert postal address formats and save them in local files (on a json file as a local database).
 
 ## Clone the project
 ```
-git clone https://github.com/yonnwii/location-cli.git
+git clone https://github.com/Zoulama/location.git
 ```
 ## Run the project
 ```
@@ -60,5 +60,12 @@ cargo run -- delete 2
 ```
 cargo run -- <COMMAND> <ID>
 cargo run -- fetch-all
+
+```
+
+
+### Unit Test
+```
+cargo test
 
 ```
